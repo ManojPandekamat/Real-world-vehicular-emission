@@ -15,3 +15,7 @@ download the dataset in same directory as of analysis.ipynb
 
 ### main filefile
 run the analysis.ipynb
+
+### visit website to know more about analysis
+https://sites.google.com/view/manojpandekamatportfolio
+
